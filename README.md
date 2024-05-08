@@ -20,6 +20,7 @@ The system runs in real time at up to 30 frames per second (fps), providing inst
 - [Usage](#usage)
 - [Features](#features)
 - [Demo](#demo)
+- [Credits](#credits)
 - [License](#license)
 
 ## Installation
@@ -76,7 +77,20 @@ The application supports different modes for pose identification:
 ## Demo
 
 
-https://github.com/kpratik23/YogaPoseClassification/assets/141538334/eab5d18d-7391-446a-99f5-e9fb0a05bee1
+https://github.com/kpratik23/YogaPoseClassification/assets/141538334/db09029c-6082-48de-ba63-df90369ed129
+
+https://github.com/kpratik23/YogaPoseClassification/assets/141538334/68570705-edb9-45fa-9eb2-d556d6e792d4
+
+https://github.com/kpratik23/YogaPoseClassification/assets/141538334/fe42b282-9c6b-4a0a-9f7b-477657159398
+
+
+
+## Credits
+
+**Credit:** The videos for testing purpose are taken from - **Alo Moves - Online Yoga & Fitness Videos**
+ - https://www.youtube.com/watch?v=Mn6RSIRCV3w
+ - https://www.youtube.com/watch?v=EC7RGJ975iM&t=7s
+ - https://www.youtube.com/watch?v=Fr5kiIygm0c
 
 
 
