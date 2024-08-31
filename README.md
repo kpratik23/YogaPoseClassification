@@ -95,7 +95,7 @@ https://github.com/kpratik23/YogaPoseClassification/assets/141538334/fe42b282-9c
 
 
 
-## Licen
+## License
   This project is licensed under the MIT License.
 
 
